@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ca_ventilador_prova", "ca_ventilador_prova\ca_ventilador_prova.csproj", "{C63D9E38-DFAA-4C24-BFBD-0213FC647271}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C63D9E38-DFAA-4C24-BFBD-0213FC647271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C63D9E38-DFAA-4C24-BFBD-0213FC647271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C63D9E38-DFAA-4C24-BFBD-0213FC647271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C63D9E38-DFAA-4C24-BFBD-0213FC647271}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A4303DA-2BAE-41DF-9890-E2DFC6D8DDF8}
+	EndGlobalSection
+EndGlobal
